@@ -1,0 +1,11 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.wrapper {
+    position: relative;
+    width: 600px;
+    height: 600px;
+    box-sizing: border-box;
+}
